@@ -1,0 +1,5 @@
+# LiTS DATASET PART 1 LINK 
+https://www.kaggle.com/datasets/andrewmvd/liver-tumor-segmentation
+
+#LiTS DATASET PART 2 LINK 
+https://www.kaggle.com/datasets/andrewmvd/liver-tumor-segmentation-part-2
